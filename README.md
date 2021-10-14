@@ -1,4 +1,34 @@
 ### Hi there 👋
+I'm Yasin from Turkey. I'm,
+
+* Head of software development of a technology company
+* A software architect
+* A full stack developer
+* A DevOps engineer
+* A technology and science enthusiast
+* A C# & JavaScript specialist
+* A Vue.js fan
+* An electronics hobbyist
+* A loving father of two
+
+### 🧾 Recent Activity
+<!--START_SECTION:activity-->
+
+### ⚡ Stats
+![GitHub Stats][stats]
+
+### 🔥 Streak Stats
+![GitHub Streak][streak]
+
+### 🏆 Profile Trophy
+![Github Profile Trophy][trophy]
+
+[website]: https://mehyaa.github.io
+[profile]: https://github.com/mehyaa
+[stats]: https://github-readme-stats.vercel.app/api?username=mehyaa&show_icons=true&count_private=true&theme=vue
+[streak]: https://github-readme-streak-stats.herokuapp.com?user=mehyaa&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=transparent
+[trophy]: https://github-profile-trophy.vercel.app/?username=mehyaa&theme=vue&no-frame=true&column=3&margin-w=16&margin-h=16
+
 
 <!--
 **mehyaa/mehyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
