@@ -13,6 +13,12 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#8](https://github.com/valuabletouch/thingsboard/pull/8) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+2. 💪 Opened PR [#5](https://github.com/rokibhasansagar/slimhub_actions/pull/5) in [rokibhasansagar/slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
+3. 🎉 Merged PR [#7](https://github.com/valuabletouch/thingsboard/pull/7) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+4. 💪 Opened PR [#88](https://github.com/snatch-dev/Convey/pull/88) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+5. 💪 Opened PR [#87](https://github.com/snatch-dev/Convey/pull/87) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+<!--END_SECTION:activity-->
 
 ### ⚡ Stats
 ![GitHub Stats][stats]
