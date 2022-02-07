@@ -13,11 +13,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/valuabletouch/thingsboard/pull/16) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
-2. 🎉 Merged PR [#15](https://github.com/valuabletouch/thingsboard/pull/15) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
-3. 🎉 Merged PR [#14](https://github.com/valuabletouch/thingsboard/pull/14) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
-4. 🎉 Merged PR [#13](https://github.com/valuabletouch/thingsboard/pull/13) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
-5. 💪 Opened PR [#93](https://github.com/snatch-dev/Convey/pull/93) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+1. 🎉 Merged PR [#17](https://github.com/valuabletouch/thingsboard/pull/17) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+2. 🎉 Merged PR [#16](https://github.com/valuabletouch/thingsboard/pull/16) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+3. 🎉 Merged PR [#15](https://github.com/valuabletouch/thingsboard/pull/15) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+4. 🎉 Merged PR [#14](https://github.com/valuabletouch/thingsboard/pull/14) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+5. 🎉 Merged PR [#13](https://github.com/valuabletouch/thingsboard/pull/13) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
