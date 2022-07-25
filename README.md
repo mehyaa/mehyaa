@@ -13,8 +13,8 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/valuabletouch/thingsboard/pull/18) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
-2. 🗣 Commented on [#1](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/1) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
+1. 🎉 Merged PR [#19](https://github.com/valuabletouch/thingsboard/pull/19) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+2. 🎉 Merged PR [#18](https://github.com/valuabletouch/thingsboard/pull/18) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
 3. 🗣 Commented on [#1](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/1) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
 4. 🗣 Commented on [#466](https://github.com/julian-klode/dns66/issues/466) in [julian-klode/dns66](https://github.com/julian-klode/dns66)
 5. 🎉 Merged PR [#2](https://github.com/mehyaa/vscode-workspace-storage-cleanup/pull/2) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
