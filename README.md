@@ -13,11 +13,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#110](https://github.com/snatch-dev/Convey/pull/110) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-2. 🎉 Merged PR [#1](https://github.com/valuabletouch/docker/pull/1) in [valuabletouch/docker](https://github.com/valuabletouch/docker)
-3. 🎉 Merged PR [#22](https://github.com/valuabletouch/thingsboard/pull/22) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
-4. 💪 Opened PR [#107](https://github.com/snatch-dev/Convey/pull/107) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-5. 💪 Opened PR [#106](https://github.com/snatch-dev/Convey/pull/106) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+1. 💪 Opened PR [#93](https://github.com/opentracing-contrib/csharp-netcore/pull/93) in [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore)
+2. 💪 Opened PR [#110](https://github.com/snatch-dev/Convey/pull/110) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+3. 🎉 Merged PR [#1](https://github.com/valuabletouch/docker/pull/1) in [valuabletouch/docker](https://github.com/valuabletouch/docker)
+4. 🎉 Merged PR [#22](https://github.com/valuabletouch/thingsboard/pull/22) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+5. 💪 Opened PR [#107](https://github.com/snatch-dev/Convey/pull/107) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
