@@ -13,11 +13,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/valuabletouch/docker/pull/2) in [valuabletouch/docker](https://github.com/valuabletouch/docker)
-2. 💪 Opened PR [#111](https://github.com/snatch-dev/Convey/pull/111) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-3. 💪 Opened PR [#93](https://github.com/opentracing-contrib/csharp-netcore/pull/93) in [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore)
-4. 💪 Opened PR [#110](https://github.com/snatch-dev/Convey/pull/110) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-5. 🎉 Merged PR [#1](https://github.com/valuabletouch/docker/pull/1) in [valuabletouch/docker](https://github.com/valuabletouch/docker)
+1. ❗️ Closed issue [#1](https://github.com/mehyaa/vscode-branch-cleanup/issues/1) in [mehyaa/vscode-branch-cleanup](https://github.com/mehyaa/vscode-branch-cleanup)
+2. 🗣 Commented on [#1](https://github.com/mehyaa/vscode-branch-cleanup/issues/1) in [mehyaa/vscode-branch-cleanup](https://github.com/mehyaa/vscode-branch-cleanup)
+3. 🎉 Merged PR [#2](https://github.com/valuabletouch/docker/pull/2) in [valuabletouch/docker](https://github.com/valuabletouch/docker)
+4. 💪 Opened PR [#111](https://github.com/snatch-dev/Convey/pull/111) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+5. 💪 Opened PR [#93](https://github.com/opentracing-contrib/csharp-netcore/pull/93) in [opentracing-contrib/csharp-netcore](https://github.com/opentracing-contrib/csharp-netcore)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
