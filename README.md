@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Yasin from Turkey. I'm,
 
-* Head of software development of a technology company
+* Chief technology officer of a technology company
 * A software architect
 * A full stack developer
 * A DevOps engineer
@@ -9,7 +9,7 @@ I'm Yasin from Turkey. I'm,
 * A C# & JavaScript specialist
 * A Vue.js fan
 * An electronics hobbyist
-* A loving father of two
+* A loving husband and father of two
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
