@@ -26,14 +26,14 @@ I'm Yasin from Turkey. I'm,
 ### 🔥 Streak Stats
 ![GitHub Streak][streak]
 
-### 🏆 Profile Trophy
+### 🏆 Profile Trophies
 ![Github Profile Trophy][trophy]
 
-[website]: https://mehyaa.github.io
 [profile]: https://github.com/mehyaa
-[stats]: https://github-readme-stats.vercel.app/api?username=mehyaa&show_icons=true&count_private=true&theme=vue
-[streak]: https://github-readme-streak-stats.herokuapp.com?user=mehyaa&theme=vue&hide_border=true&date_format=j%20M%5B%20Y%5D&background=transparent
-[trophy]: https://github-profile-trophy.vercel.app/?username=mehyaa&theme=vue&no-frame=true&column=3&margin-w=16&margin-h=16
+[website]: https://mehyaa.github.io
+[stats]: https://github-readme-stats.vercel.app/api?username=mehyaa&show_icons=true&count_private=true&theme=vue-dark
+[streak]: https://streak-stats.demolab.com?user=mehyaa&theme=vue-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly
+[trophy]: https://github-profile-trophy.vercel.app?username=mehyaa&theme=nord&no-frame=true&column=3&margin-w=8&margin-h=8
 
 
 <!--
