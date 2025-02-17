@@ -13,8 +13,8 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23#issuecomment-2629428819) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
-2. 🔒 Closed issue [#2](https://github.com/mehyaa/vscode-branch-cleanup/issues/2) in [mehyaa/vscode-branch-cleanup](https://github.com/mehyaa/vscode-branch-cleanup)
+1. ❗ Opened issue [#3472](https://github.com/EclipseFdn/open-vsx.org/issues/3472) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. 🗣 Commented on [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23#issuecomment-2629428819) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
 3. 🗣 Commented on [#2](https://github.com/mehyaa/vscode-branch-cleanup/issues/2#issuecomment-2575130505) in [mehyaa/vscode-branch-cleanup](https://github.com/mehyaa/vscode-branch-cleanup)
 4. 🗣 Commented on [#3](https://github.com/mehyaa/vscode-branch-cleanup/issues/3#issuecomment-2574992529) in [mehyaa/vscode-branch-cleanup](https://github.com/mehyaa/vscode-branch-cleanup)
 5. 🔒 Closed issue [#3](https://github.com/mehyaa/vscode-branch-cleanup/issues/3) in [mehyaa/vscode-branch-cleanup](https://github.com/mehyaa/vscode-branch-cleanup)
