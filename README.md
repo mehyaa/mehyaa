@@ -13,11 +13,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23#issuecomment-2663355466) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
-2. 🔒 Closed issue [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
-3. ❗ Opened issue [#3472](https://github.com/EclipseFdn/open-vsx.org/issues/3472) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🗣 Commented on [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23#issuecomment-2629428819) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
-5. 🔒 Closed issue [#3](https://github.com/mehyaa/vscode-branch-cleanup/issues/3) in [mehyaa/vscode-branch-cleanup](https://github.com/mehyaa/vscode-branch-cleanup)
+1. 🗣 Commented on [#3](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/3#issuecomment-2665229961) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
+2. 🗣 Commented on [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23#issuecomment-2663355466) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
+3. 🔒 Closed issue [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
+4. ❗ Opened issue [#3472](https://github.com/EclipseFdn/open-vsx.org/issues/3472) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+5. 🗣 Commented on [#23](https://github.com/mehyaa/vscode-workspace-storage-cleanup/issues/23#issuecomment-2629428819) in [mehyaa/vscode-workspace-storage-cleanup](https://github.com/mehyaa/vscode-workspace-storage-cleanup)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
