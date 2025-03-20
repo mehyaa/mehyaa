@@ -13,11 +13,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#106](https://github.com/snatch-dev/Convey/pull/106) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-2. ❌ Closed PR [#110](https://github.com/snatch-dev/Convey/pull/110) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-3. ❌ Closed PR [#111](https://github.com/snatch-dev/Convey/pull/111) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-4. ❌ Closed PR [#107](https://github.com/snatch-dev/Convey/pull/107) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
-5. 💪 Opened PR [#47](https://github.com/valuabletouch/thingsboard/pull/47) in [valuabletouch/thingsboard](https://github.com/valuabletouch/thingsboard)
+1. 🎉 Merged PR [#5](https://github.com/mehyaa/Convey/pull/5) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
+2. 💪 Opened PR [#5](https://github.com/mehyaa/Convey/pull/5) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
+3. ❌ Closed PR [#106](https://github.com/snatch-dev/Convey/pull/106) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+4. ❌ Closed PR [#110](https://github.com/snatch-dev/Convey/pull/110) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+5. ❌ Closed PR [#111](https://github.com/snatch-dev/Convey/pull/111) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
