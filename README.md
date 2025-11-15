@@ -13,7 +13,7 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/mehyaa/Convey/pull/6) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
+1. 🗣 Commented on [#1](https://github.com/mehyaa/browser-extension-ai-tab-manager/pull/1#issuecomment-3536469408) in [mehyaa/browser-extension-ai-tab-manager](https://github.com/mehyaa/browser-extension-ai-tab-manager)
 2. 💪 Opened PR [#6](https://github.com/mehyaa/Convey/pull/6) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
 3. 🎉 Merged PR [#5](https://github.com/mehyaa/Convey/pull/5) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
 4. 💪 Opened PR [#5](https://github.com/mehyaa/Convey/pull/5) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
