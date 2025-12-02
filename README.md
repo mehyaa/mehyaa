@@ -14,10 +14,10 @@ I'm Yasin from Turkey. I'm,
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
-2. 💪 Opened PR [#11](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
-3. 💪 Opened PR [#10](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
-4. 🗣 Commented on [#1](https://github.com/mehyaa/browser-extension-ai-tab-manager/pull/1#issuecomment-3536469408) in [mehyaa/browser-extension-ai-tab-manager](https://github.com/mehyaa/browser-extension-ai-tab-manager)
-5. ❌ Closed PR [#106](https://github.com/snatch-dev/Convey/pull/106) in [snatch-dev/Convey](https://github.com/snatch-dev/Convey)
+2. ❌ Merged PR [#11](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
+3. 💪 Opened PR [#11](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
+4. ❌ Merged PR [#10](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
+5. 💪 Opened PR [#10](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
