@@ -13,11 +13,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#12](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
-2. ❌ Merged PR [#1](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
-3. ❌ Assigned PR [#1](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
-4. 💪 Opened PR [#12](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
-5. 💪 Opened PR [#1](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
+1. 🗣 Commented on [#1066](https://github.com/ThreeMammals/Ocelot/issues/1066#issuecomment-3615716429) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+2. ❌ Merged PR [#12](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
+3. ❌ Merged PR [#1](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
+4. ❌ Assigned PR [#1](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
+5. 💪 Opened PR [#12](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
