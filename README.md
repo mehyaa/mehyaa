@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1478](undefined) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
-2. 🗣 Commented on [#1478](https://github.com/ThreeMammals/Ocelot/pull/1478#issuecomment-3620207332) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
-3. 🗣 Commented on [#1066](https://github.com/ThreeMammals/Ocelot/issues/1066#issuecomment-3615716429) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
-4. ❌ Merged PR [#12](undefined) in [mehyaa/Convey](https://github.com/mehyaa/Convey)
-5. ❌ Merged PR [#1](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
+1. ❌ Reopened PR [#1478](undefined) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+2. 🗣 Commented on [#1478](https://github.com/ThreeMammals/Ocelot/pull/1478#issuecomment-3620494401) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+3. ❌ Closed PR [#1478](undefined) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+4. ❌ Closed PR [#1478](undefined) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+5. 🗣 Commented on [#1478](https://github.com/ThreeMammals/Ocelot/pull/1478#issuecomment-3620207332) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
