@@ -1,7 +1,6 @@
 ### Hi there 👋
 I'm Yasin from Turkey. I'm,
 
-* Chief technology officer of a technology company
 * A software architect
 * A full stack developer
 * A DevOps engineer
