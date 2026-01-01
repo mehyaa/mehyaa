@@ -12,10 +12,10 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
-2. 💪 Opened PR [#2](undefined) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
+1. 🎉 Merged PR [#2](https://github.com/FOA-FunctiOnAir/BiUM/pull/2) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
+2. 💪 Opened PR [#2](https://github.com/FOA-FunctiOnAir/BiUM/pull/2) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
 3. 🗣 Commented on [#1066](https://github.com/ThreeMammals/Ocelot/issues/1066#issuecomment-3645403839) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
-4. ❌ Merged PR [#1478](undefined) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+4. 🎉 Merged PR [#1478](https://github.com/ThreeMammals/Ocelot/pull/1478) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
 5. 🗣 Commented on [#1478](https://github.com/ThreeMammals/Ocelot/pull/1478#issuecomment-3620722416) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
 <!--END_SECTION:activity-->
 
