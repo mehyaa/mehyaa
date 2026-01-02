@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/FOA-FunctiOnAir/BiUM/pull/2) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
-2. 💪 Opened PR [#2](https://github.com/FOA-FunctiOnAir/BiUM/pull/2) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
-3. 🗣 Commented on [#1066](https://github.com/ThreeMammals/Ocelot/issues/1066#issuecomment-3645403839) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
-4. 🎉 Merged PR [#1478](https://github.com/ThreeMammals/Ocelot/pull/1478) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
-5. 🗣 Commented on [#1478](https://github.com/ThreeMammals/Ocelot/pull/1478#issuecomment-3620722416) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+1. ❌ Closed PR [#16](https://github.com/mehyaa/nativescript-common/pull/16) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
+2. ❌ Closed PR [#8](https://github.com/mehyaa/nativescript-common/pull/8) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
+3. ❌ Closed PR [#10](https://github.com/mehyaa/nativescript-common/pull/10) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
+4. ❌ Closed PR [#7](https://github.com/mehyaa/nativescript-common/pull/7) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
+5. ❌ Closed PR [#6](https://github.com/mehyaa/nativescript-common/pull/6) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
