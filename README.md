@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/mehyaa/ForkGG/pull/1) in [mehyaa/ForkGG](https://github.com/mehyaa/ForkGG)
-2. ❌ Closed PR [#1](https://github.com/mehyaa/Ghost/pull/1) in [mehyaa/Ghost](https://github.com/mehyaa/Ghost)
-3. ❌ Closed PR [#16](https://github.com/mehyaa/nativescript-common/pull/16) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
-4. ❌ Closed PR [#8](https://github.com/mehyaa/nativescript-common/pull/8) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
-5. ❌ Closed PR [#10](https://github.com/mehyaa/nativescript-common/pull/10) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
+1. ❌ Closed PR [#1](https://github.com/mehyaa/vue-common/pull/1) in [mehyaa/vue-common](https://github.com/mehyaa/vue-common)
+2. ❌ Closed PR [#1](https://github.com/mehyaa/ForkGG/pull/1) in [mehyaa/ForkGG](https://github.com/mehyaa/ForkGG)
+3. ❌ Closed PR [#1](https://github.com/mehyaa/Ghost/pull/1) in [mehyaa/Ghost](https://github.com/mehyaa/Ghost)
+4. ❌ Closed PR [#16](https://github.com/mehyaa/nativescript-common/pull/16) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
+5. ❌ Closed PR [#8](https://github.com/mehyaa/nativescript-common/pull/8) in [mehyaa/nativescript-common](https://github.com/mehyaa/nativescript-common)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
