@@ -12,7 +12,7 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/FOA-FunctiOnAir/BiUM/pull/3) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
+1. ❗ Opened issue [#1](https://github.com/crewfactory-ai/crew-factory-demo/issues/1) in [crewfactory-ai/crew-factory-demo](https://github.com/crewfactory-ai/crew-factory-demo)
 2. 💪 Opened PR [#3](https://github.com/FOA-FunctiOnAir/BiUM/pull/3) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
 3. 🗣 Commented on [#945](https://github.com/Cysharp/MagicOnion/issues/945#issuecomment-3763194200) in [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
 4. 🗣 Commented on [#945](https://github.com/Cysharp/MagicOnion/issues/945#issuecomment-3753834604) in [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
