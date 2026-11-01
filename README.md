@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/crewfactory-ai/crew-factory-demo/issues/1) in [crewfactory-ai/crew-factory-demo](https://github.com/crewfactory-ai/crew-factory-demo)
-2. 💪 Opened PR [#3](https://github.com/FOA-FunctiOnAir/BiUM/pull/3) in [FOA-FunctiOnAir/BiUM](https://github.com/FOA-FunctiOnAir/BiUM)
-3. 🗣 Commented on [#945](https://github.com/Cysharp/MagicOnion/issues/945#issuecomment-3763194200) in [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
-4. 🗣 Commented on [#945](https://github.com/Cysharp/MagicOnion/issues/945#issuecomment-3753834604) in [Cysharp/MagicOnion](https://github.com/Cysharp/MagicOnion)
-5. 🗣 Commented on [#1066](https://github.com/ThreeMammals/Ocelot/issues/1066#issuecomment-3720641598) in [ThreeMammals/Ocelot](https://github.com/ThreeMammals/Ocelot)
+1. 🔒 Closed issue [#7](https://github.com/mehyaa/claude-telegram/issues/7) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+2. 🗣 Commented on [#7](https://github.com/mehyaa/claude-telegram/issues/7#issuecomment-6558334875) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+3. ❗ Opened issue [#7](https://github.com/mehyaa/claude-telegram/issues/7) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+4. 🔒 Closed issue [#6](https://github.com/mehyaa/claude-telegram/issues/6) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+5. 🗣 Commented on [#6](https://github.com/mehyaa/claude-telegram/issues/6#issuecomment-6558334264) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
