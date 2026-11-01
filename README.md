@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/mehyaa/claude-telegram/issues/8#issuecomment-6561060868) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-2. 🔒 Closed issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-3. ℹ️ Labeled issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-4. ℹ️ Labeled issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-5. ❗ Opened issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+1. ❗ Opened issue [#27](https://github.com/crewfactory-ai/invoice-api/issues/27) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+2. ❗ Opened issue [#26](https://github.com/crewfactory-ai/invoice-api/issues/26) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+3. ❗ Opened issue [#25](https://github.com/crewfactory-ai/invoice-api/issues/25) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+4. ❗ Opened issue [#24](https://github.com/crewfactory-ai/invoice-api/issues/24) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+5. ❗ Opened issue [#23](https://github.com/crewfactory-ai/invoice-api/issues/23) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
