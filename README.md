@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/mehyaa/claude-telegram/issues/7) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-2. 🗣 Commented on [#7](https://github.com/mehyaa/claude-telegram/issues/7#issuecomment-6558334875) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-3. ❗ Opened issue [#7](https://github.com/mehyaa/claude-telegram/issues/7) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-4. 🔒 Closed issue [#6](https://github.com/mehyaa/claude-telegram/issues/6) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
-5. 🗣 Commented on [#6](https://github.com/mehyaa/claude-telegram/issues/6#issuecomment-6558334264) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+1. 🗣 Commented on [#8](https://github.com/mehyaa/claude-telegram/issues/8#issuecomment-6561060868) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+2. 🔒 Closed issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+3. ℹ️ Labeled issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+4. ℹ️ Labeled issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
+5. ❗ Opened issue [#8](https://github.com/mehyaa/claude-telegram/issues/8) in [mehyaa/claude-telegram](https://github.com/mehyaa/claude-telegram)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
