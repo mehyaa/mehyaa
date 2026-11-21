@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#75](https://github.com/crewfactory-ai/invoice-api/issues/75) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
-2. ❗ Opened issue [#73](https://github.com/crewfactory-ai/invoice-api/issues/73) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
-3. ❗ Opened issue [#71](https://github.com/crewfactory-ai/invoice-api/issues/71) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
-4. ❗ Opened issue [#64](https://github.com/crewfactory-ai/invoice-api/issues/64) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
-5. ❗ Opened issue [#61](https://github.com/crewfactory-ai/invoice-api/issues/61) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+1. ❗ Opened issue [#93](https://github.com/crewfactory-ai/invoice-api/issues/93) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+2. ❗ Opened issue [#92](https://github.com/crewfactory-ai/invoice-api/issues/92) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+3. ❗ Opened issue [#91](https://github.com/crewfactory-ai/invoice-api/issues/91) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+4. ❗ Opened issue [#90](https://github.com/crewfactory-ai/invoice-api/issues/90) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+5. ❗ Opened issue [#89](https://github.com/crewfactory-ai/invoice-api/issues/89) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
