@@ -12,11 +12,11 @@ I'm Yasin from Turkey. I'm,
 
 ### 🧾 Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8427](https://github.com/kedacore/keda/issues/8427) in [kedacore/keda](https://github.com/kedacore/keda)
-2. ❗ Opened issue [#18039](https://github.com/gvisor/gvisor/issues/18039) in [gvisor/gvisor](https://github.com/gvisor/gvisor)
-3. ❗ Opened issue [#178](https://github.com/crewfactory-ai/invoice-api/issues/178) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
-4. ❗ Opened issue [#176](https://github.com/crewfactory-ai/invoice-api/issues/176) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
-5. ❗ Opened issue [#175](https://github.com/crewfactory-ai/invoice-api/issues/175) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+1. 💪 Opened PR [#8429](https://github.com/kedacore/keda/pull/8429) in [kedacore/keda](https://github.com/kedacore/keda)
+2. ❗ Opened issue [#8427](https://github.com/kedacore/keda/issues/8427) in [kedacore/keda](https://github.com/kedacore/keda)
+3. ❗ Opened issue [#18039](https://github.com/gvisor/gvisor/issues/18039) in [gvisor/gvisor](https://github.com/gvisor/gvisor)
+4. ❗ Opened issue [#178](https://github.com/crewfactory-ai/invoice-api/issues/178) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
+5. ❗ Opened issue [#176](https://github.com/crewfactory-ai/invoice-api/issues/176) in [crewfactory-ai/invoice-api](https://github.com/crewfactory-ai/invoice-api)
 <!--END_SECTION:activity-->
 
 ### ⚡ Stats
